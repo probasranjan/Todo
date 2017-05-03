@@ -11,20 +11,20 @@
 -Developed in linux environment
 -It's Can be run Android and iOS both of them  
 
-#System Requirements
+# System Requirements
 -Java
 -Javascript
 -NPM
 -React-Native
 
-#Run
+# Run
 -You Can run this apps on you emulation either in real device 
 -You Can also choose your preferred HTTP Server to run this project
 
-#License
+# License
 -You are free to do whatever you want.
 
-#Conclusion
+# Conclusion
 -I strongly recommend you not to consider this is a complete project. But I would really love to learn more from you. Please feel free to give your valuable feedback to this quick draft.
 
 Thank you for your time :)
