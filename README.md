@@ -12,10 +12,10 @@
 -It's Can be run Android and iOS both of them  
 
 # System Requirements
- -Java
- -Javascript
- -NPM
- -React-Native
+-Java
+-Javascript
+-NPM
+-React-Native
 
 # Run
 -You Can run this apps on you emulation either in real device 
